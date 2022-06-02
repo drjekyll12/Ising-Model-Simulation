@@ -1,5 +1,5 @@
 # Ising-Model-Simulation
-AP CS A final project. The project is based on the simulation of a d=1 Ising model with spin values +-1. 
+AP CS A final project. The project is based on the simulation of a d=1 Ising model with spin values +-1. This way, some already-known physical properties are confirmed and further insight into how the Ising systems evolve as well as how their macroscopic properties change with respect to temperature is given. Using the Metropolis Algorithm the Ising system is updated and results are visualized via matplotlib.
 
 # The Ising Model
 
