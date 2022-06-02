@@ -78,6 +78,6 @@ The magnetization of the system is given by the simple equation below:
 How the magnetization of the system changes with temperature is essential since it reveals what the critical temperature is. For d=1, spin=+-1 Ising systems after the critical temperature magnetization drops to 0 (which once again correlates with the results found in the "Average Correlation Length vs Ticks" section). This phenomenon canbe seen in the following phase diagram.
 
 <p align="center">
-  <img src="images/ising%20model%20mag%20vs%20t.png" />
+  <img src="images/mag%20vs%20t%20%20phase%20diagram.png" />
 </p>
 
