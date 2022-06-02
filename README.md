@@ -43,7 +43,7 @@ The "Energy vs Ticks" graph is generated using the code block that can be found 
 
 Following the laws of physics, it is expected for the system to decrease in total energy as the system evolves, which is what occurs as seen in the image above.
 
-## Average Correlation Length / Correlation vs Ticks
+## Average Correlation Length vs Ticks
 
 To give a general idea of how the correlation length of the Ising system changes over ticks, the average length of blocks of +1 or -1 spins are calculated for each state. As the system is updated this value changes. This is a significant oberservation in terms of how the simulation works since it allows us to see whether the system undergoes drastic changes in this frame of reference, and the stability observed here suggests better statistical results for other graphs. One of the graphs obtained is given below.
 
@@ -52,3 +52,17 @@ To give a general idea of how the correlation length of the Ising system changes
 </p>
 
 Clearly, as the states are updated the correlation lengths converge to 1, that is the system is almost in the form +1,-1,+1,-1,..., which correlates with the "Energy vs Ticks" graph given above.
+
+## Correlation vs Temperature
+
+Here, the correlation of the system as the system is changing temperature measured using the correlation function given below. The correlation function yields how much correlation (non-randomness) is within the system.
+
+<p align="center">
+  <img src="images/correlation%20function.png" />
+</p>
+
+How the correlation of the system changes with temperature is important in terms of finding more about the critical temperature of the system. The graph generated using the correlation function and the temerpature that corresponded to that state is given below:
+
+<p align="center">
+  <img src="images/corr%20vs%20temp.png" />
+</p>
