@@ -87,3 +87,11 @@ The graph generated for "Magnetization vs Temperature" can be found below:
   <img src="images/magnetization%20vs%20temp.png" />
 </p>
 
+## Significance of the Study and Motivation
+
+This project aims to provide further insight as to how an Ising system evolves according to temperature as well as see how macroscopic quantities of the system such as magnetization confirm the values found in exact calculations provided by the renormalization group theory. Therefore, it is not only a great tool to visualize and confirm already-accepted scientific explanations but also a tool that might be used to see whether there had been any loopholes in the theoretical process via the power of statistical analysis. Because I have been interested in statistical thermodynamics for a while now, I wanted to observe what I have been working theoretically on to give me a better understanding of these complex concepts.
+
+
+## Future Works
+
+In the future, the project will include other macroscopic quantities like specific heat and susceptibilty. Also, specfically for the "Energy vs Ticks" part of the project many initial systems could be generated and the slope of the best-fit lines of their "Energy vs Ticks" could be recorded to see whether a system's tendency towards decreasing its energy is statistically significant. Alongside those, the project aims to include a user-friendly interface to level-up the learning process hidden.
