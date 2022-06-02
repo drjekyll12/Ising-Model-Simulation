@@ -13,7 +13,7 @@ Alongside these, the Ising model is not bounded by the fact that si= ±1. si can
 
 Although the Ising model possesses aspects regarding many macroscopic values, the main component of every system is the total energy of the system and how it is calculated. In the Ising model, depending on how many types of interactions or individual factors the model has, the Hamiltonian can be written as such, in the most basic form:
 
-![](images/filenameScreen Shot 2022-06-02 at 11.38.56.png)
+![](images/Screen%20Shot%202022-06-02%20at%2011.38.56.png)
 
 
 This Hamiltonian only takes into account double interactions between spins, but as emphasized above, this depends on how the system was initially defined. Thus, a Hamiltonian like the one below could also be written.
