@@ -16,4 +16,6 @@ Although the Ising model possesses aspects regarding many macroscopic values, th
 ![](images/hamiltonian.png)
 
 
-This Hamiltonian only takes into account double interactions between spins, but as emphasized above, this depends on how the system was initially defined. Thus, a Hamiltonian like the one below could also be written.
+Similarly, a statistical concept that will be useful in the future sections is the partition function, given by Z. The partition function is defined as:
+
+![](images/partition%20function.png)
