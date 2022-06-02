@@ -81,3 +81,9 @@ How the magnetization of the system changes with temperature is essential since 
   <img src="images/mag%20vs%20t%20%20phase%20diagram.png" />
 </p>
 
+The graph generated for "Magnetization vs Temperature" can be found below:
+
+<p align="center">
+  <img src="images/magnetization%20vs%20temp.png" />
+</p>
+
