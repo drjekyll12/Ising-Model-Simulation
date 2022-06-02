@@ -50,3 +50,5 @@ To give a general idea of how the correlation length of the Ising system changes
 <p align="center">
   <img src="images/avg%20corr%20length%20vs%20ticks.png" />
 </p>
+
+Clearly, as the states are updated the correlation lengths converge to 1, that is the system is almost in the form +1,-1,+1,-1,..., which correlates with the "Energy vs Ticks" graph given above.
