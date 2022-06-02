@@ -43,3 +43,10 @@ The "Energy vs Ticks" graph is generated using the code block that can be found 
 
 Following the laws of physics, it is expected for the system to decrease in total energy as the system evolves, which is what occurs as seen in the image above.
 
+## Average Correlation Length / Correlation vs Ticks
+
+To give a general idea of how the correlation length of the Ising system changes over ticks, the average length of blocks of +1 or -1 spins are calculated for each state. As the system is updated this value changes. This is a significant oberservation in terms of how the simulation works since it allows us to see whether the system undergoes drastic changes in this frame of reference, and the stability observed here suggests better statistical results for other graphs. One of the graphs obtained is given below.
+
+<p align="center">
+  <img src="images/avg%20corr%20length%20vs%20ticks.png" />
+</p>
