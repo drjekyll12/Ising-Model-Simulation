@@ -10,7 +10,6 @@ The Ising model is a relatively simple model, consisting of sites, generally cal
 <p align="center">
   <img src="images/ising%20model.png" />
 </p>
-![](images/ising%20model.png)
 
 However, the Ising model does not govern systems with all numbers of sites, it specifically requires the site number to be infinite which is the most important feature of the model that allows the system to be solved, either definitely or via approximations. Therefore, i=1,2,3, ... , N where N tends to infinity. 
 
@@ -18,9 +17,13 @@ Alongside these, the Ising model is not bounded by the fact that si= ±1. si can
 
 Although the Ising model possesses aspects regarding many macroscopic values, the main component of every system is the total energy of the system and how it is calculated. In the Ising model, depending on how many types of interactions or individual factors the model has, the Hamiltonian can be written as such, in the most basic form:
 
-![](images/hamiltonian.png)
+<p align="center">
+  <img src="images/hamiltonian.png" />
+</p>
 
 
 Similarly, a statistical concept that will be useful in the future sections is the partition function, given by Z. The partition function is defined as:
 
-![](images/partition%20function.png)
+<p align="center">
+  <img src="images/partition%20function.png" />
+</p>
