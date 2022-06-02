@@ -41,4 +41,5 @@ The "Energy vs Ticks" graph is generated using the code block that can be found 
   <img src="images/energy%20vs%20ticks%20graph.png" />
 </p>
 
+Following the laws of physics, it is expected for the system to decrease in total energy as the system evolves, which is what occurs as seen in the image above.
 
