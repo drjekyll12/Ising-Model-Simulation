@@ -35,3 +35,10 @@ Philosophically, Kadanoffâ€™s approach to the Ising model as well as Ken Wilsonâ
 
 ## Energy vs Ticks
 
+The "Energy vs Ticks" graph is generated using the code block that can be found in the "Energy vs Ticks.py" file. After a random initial state has been created, utilizing the Metropolis algorithm, the evolution of that particular Ising model system can be observed. However, the "Energy vs Ticks" graph gives insight as to how the total energy of the system is changing as the system evolves. The temperature value and how many times the simulation is run can be changed to obtain various results. 
+
+<p align="center">
+  <img src="images/energy%20vs%20ticks%20graph.png" />
+</p>
+
+
