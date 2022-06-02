@@ -7,7 +7,7 @@ Just like any other mathematical model, the Ising model is a model constructed t
 
 The Ising model is a relatively simple model, consisting of sites, generally called “spins”, that can take a variety of values depending on the definition of the system. The simplest version of the Ising model is the one where the spins can take one of the two values: -1 or +1. In technical terms, this refers to the fact that each spin i has the value si (sometimes shown as 𝞂i) that can be either -1 or +1. These sites are arranged in a lattice configuration that have d dimensions, and d=1 generates the simplest Ising model system, a string of spins.
 
-![](ising%20model.png)
+![](images/ising%20model.png)
 
 However, the Ising model does not govern systems with all numbers of sites, it specifically requires the site number to be infinite which is the most important feature of the model that allows the system to be solved, either definitely or via approximations. Therefore, i=1,2,3, ... , N where N tends to infinity. 
 
