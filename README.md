@@ -27,3 +27,6 @@ Similarly, a statistical concept that will be useful in the future sections is t
 <p align="center">
   <img src="images/partition%20function.png" />
 </p>
+
+# Renormalization Group and Kadanoff’s Approach: The Big Idea
+Philosophically, Kadanoff’s approach to the Ising model as well as Ken Wilson’s groundbreaking interpretation of Kadanoff’s method changed the science world. Even though the idea behind these theories was simple, it had made a huge impact on how a problem was viewed and tackled. Instead of using mean-field approaches, the system was rescaled. Instead of trying to solve a system with infinite particles, a system that has fewer but still infinite number of particles was solved. Through this iterative approach, Ken Wilson soon figured out a way to completely separate the rescaled system and make it a copy of the initial one in terms of macroscopic behavior. The method and the calculations behind the method will be discussed later on in this research paper.
